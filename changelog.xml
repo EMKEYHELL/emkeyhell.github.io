@@ -2,14 +2,16 @@
 <rss version="2.0">
    <channel>
        <title>Il mio feed RSS</title>
-       <link>http://localhost/chagelog.xml</link>
+       <link>https://emkeyhell.github.io/changelog.xml</link>
+       <atom:link href="https://emkeyhell.github.io/changelog.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom" />
        <description>Feed di esempio creato da MKL</description>
        <language>it-it</language>
        <item>
            <title>Primo articolo</title>
-           <link>http://localhost/primo-articolo</link>
+           <link>https://emkeyhell.github.io/primo-articolo</link>
            <description>Questo è il primo articolo nel mio feed RSS.</description>
-           <pubDate><?php echo date(DATE_RSS); ?></pubDate>
+           <pubDate>Tue, 17 Oct 2024 14:00:00 +0000</pubDate>
+           <guid>https://emkeyhell.github.io/primo-articolo</guid>
        </item>
    </channel>
 </rss>
