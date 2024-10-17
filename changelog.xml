@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Il mio feed RSS</title>
+        <link>http://localhost/chagelog.xml</link>
+        <description>Feed di esempio creato da MKL</description>
+        <language>it-it</language>
+        <item>
+            <title>Primo articolo</title>
+            <link>http://localhost/primo-articolo</link>
+            <description>Questo è il primo articolo nel mio feed RSS.</description>
+            <pubDate><?php echo date(DATE_RSS); ?></pubDate>
+        </item>
+    </channel>
+</rss>
