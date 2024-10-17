@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
    <channel>
        <title>The Hell - Change Logs</title>
        <link>https://emkeyhell.github.io/changelog.xml</link>
-       <atom:link href="https://emkeyhell.github.io/changelog.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom" />
+       <atom:link href="https://emkeyhell.github.io/changelog.xml" rel="self" type="application/rss+xml" />
        <description>Feed Informativo su cambiamenti/aggiunte nel discord The Hell</description>
        <language>it-it</language>
-       
+
+       <!-- Sezione immagine -->
+       <image>
+           <url>https://r2.fivemanage.com/pub/934xmiq0ag6z.png</url>
+           <title>The Hell Logo</title>
+           <link>https://emkeyhell.github.io</link>
+           <width>142</width>
+           <height>44</height>
+       </image>
+
        <!-- Primo articolo -->
        <item>
            <title>UPDATE 17/10/2024</title>
@@ -32,6 +41,5 @@
            <pubDate>Thu, 17 Oct 2024 13:30:00 +0000</pubDate>
            <guid>https://emkeyhell.github.io/articolo1</guid>
        </item>
-       
    </channel>
 </rss>
