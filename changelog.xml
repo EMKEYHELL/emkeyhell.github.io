@@ -6,12 +6,32 @@
        <atom:link href="https://emkeyhell.github.io/changelog.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom" />
        <description>Feed Informativo su cambiamenti/aggiunte nel discord The Hell</description>
        <language>it-it</language>
+       
+       <!-- Primo articolo -->
        <item>
-           <title>Primo articolo</title>
-           <link>https://emkeyhell.github.io/primo-articolo</link>
-           <description>Questo è il primo articolo nel mio feed RSS.</description>
-           <pubDate>Tue, 17 Oct 2024 14:00:00 +0000</pubDate>
-           <guid>https://emkeyhell.github.io/primo-articolo</guid>
+           <title>UPDATE 17/10/2024</title>
+           <link>https://emkeyhell.github.io/articolo1</link>
+           <description>
+               <![CDATA[
+               - Il canale ranking-inviti con la guida illustrativa.<br />
+               - Aggiornato il primo accesso con la selezione obbligatoria dei ruoli sesso, età, provenienza.<br />
+               - Aggiornati i vari canali nella categoria PASSIONI.<br />
+               - Aggiunta la guida completa sul server e sui ruoli nel canale the-hell.<br />
+               - Aggiunti Bot Tracker nel canale free-or-discount che segnalano giochi, DLC's, ecc, gratis o scontati.<br />
+               - Creato questo RSS FEED personale di The Hell dove verranno postati tutti i cambiamenti del Discord nel canale change-log.<br />
+               - Aggiunto canale ruoli-live-streaming con la guida e la spiegazione di essi.<br />
+               - Aggiunti tutti Feed RSS informativi in tutti i canali della categoria PASSIONI.<br />
+               - Creato un FORUM dedicato per ogni canale nella categoria PASSIONI.<br />
+               - Creato Ruoli Personali nella categoria i-tuoi-ruoli.<br />
+               - Modificati i colori membri per gerarchia, dal più basso chiaro, al più alto scuro.<br /><br />
+               Per suggerimenti o problematiche non esitate a contattarci nel FORUM dedicato richieste-o-migliorie.<br /><br />
+               Il Team HappyCoding!<br /><br />
+               <img src="https://r2.fivemanage.com/pub/934xmiq0ag6z.png" alt="RSS Image" />
+               ]]>
+           </description>
+           <pubDate>Thu, 17 Oct 2024 14:00:00 +0000</pubDate>
+           <guid>https://emkeyhell.github.io/articolo1</guid>
        </item>
+       
    </channel>
 </rss>
