@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
    <channel>
-       <title>Il mio feed RSS</title>
+       <title>The Hell - Change Logs</title>
        <link>https://emkeyhell.github.io/changelog.xml</link>
        <atom:link href="https://emkeyhell.github.io/changelog.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom" />
-       <description>Feed di esempio creato da MKL</description>
+       <description>Feed Informativo su cambiamenti/aggiunte nel discord The Hell</description>
        <language>it-it</language>
        <item>
            <title>Primo articolo</title>
